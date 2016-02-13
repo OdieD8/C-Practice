@@ -1,0 +1,6 @@
+C:\projects\c#\pscsharpcourse\pscsharpcourse\bin\Debug\pscsharpcourse.exe.config
+C:\projects\c#\pscsharpcourse\pscsharpcourse\bin\Debug\pscsharpcourse.exe
+C:\projects\c#\pscsharpcourse\pscsharpcourse\bin\Debug\pscsharpcourse.pdb
+C:\projects\c#\pscsharpcourse\pscsharpcourse\obj\Debug\pscsharpcourse.csprojResolveAssemblyReference.cache
+C:\projects\c#\pscsharpcourse\pscsharpcourse\obj\Debug\pscsharpcourse.exe
+C:\projects\c#\pscsharpcourse\pscsharpcourse\obj\Debug\pscsharpcourse.pdb
