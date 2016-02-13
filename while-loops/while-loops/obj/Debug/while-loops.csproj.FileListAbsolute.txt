@@ -1,1 +1,6 @@
 C:\projects\c#\while-loops\while-loops\bin\Debug\while-loops.exe.config
+C:\projects\c#\while-loops\while-loops\bin\Debug\while-loops.exe
+C:\projects\c#\while-loops\while-loops\bin\Debug\while-loops.pdb
+C:\projects\c#\while-loops\while-loops\obj\Debug\while-loops.csprojResolveAssemblyReference.cache
+C:\projects\c#\while-loops\while-loops\obj\Debug\while-loops.exe
+C:\projects\c#\while-loops\while-loops\obj\Debug\while-loops.pdb

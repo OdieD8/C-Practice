@@ -10,6 +10,17 @@ namespace while_loops
     {
         static void Main(string[] args)
         {
+            Console.Write("How old are you? ");
+            int age = int.Parse(Console.ReadLine());
+
+            do
+            {
+                Console.WriteLine("Happy Birthday");
+                age--;
+
+            } while (age > 0);
+            Console.WriteLine("\nTaDa!"); // "\n" starts a new line
+            Console.ReadKey();
         }
     }
 }
